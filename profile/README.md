@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Creating a robot that can be taught by anyone requires tackling some of the hardest challenges in the field of robotics**
+**Creating a robot that can be taught by anyone requires tackling some of the hardest challenges in the field of robotics. The Everyday Robot Project is developing a general-purpose learning robot that can operate autonomously in unstructured environments.**
 
 Today, robots are expensive and perform highly specialized tasks. But what if a robot could be affordable and taught by just about anyone? They could help people with whatever they needed, doing tasks we haven't even dreamed up yet.
 
