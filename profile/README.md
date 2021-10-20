@@ -6,6 +6,10 @@ Today, robots are expensive and perform highly specialized tasks. But what if a 
 
 Building robots that can operate autonomously in unstructured human environments and all terrains, like our homes, offices and outdoors, is a complex, unsolved problem. It requires tackling and integrating some of the hardest hardware and software challenges in the field of robotics today. The Everyday Robot Project is building a new type of learning robot — one that can eventually learn to help everyone, every day.
 
+![roborg](https://user-images.githubusercontent.com/37585803/138088752-aa3448b7-e780-47c0-b7cd-6c831c19e5d7.png)
+![intel-rtf](https://user-images.githubusercontent.com/37585803/138089285-2525ad95-5009-4c6b-a2a0-a75226228fc9.png)
+
+
 <!--
 
 **Here are some ideas to get you started:**
