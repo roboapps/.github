@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 👋
 
 **Creating a robot that can be taught by anyone requires tackling some of the hardest challenges in the field of robotics. The Everyday Robot Project is developing a general-purpose learning robot that can operate autonomously in unstructured environments.**
 
