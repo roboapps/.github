@@ -1,8 +1,8 @@
 # Welcome 👋
 
-> ## For suppose that every tool we had could perform its task, either at our bidding or itself perceiving the need, of their own accord.
+### A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.
 
-**A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.**
+> ### For suppose that every tool we had could perform its task, either at our bidding or itself perceiving the need, of their own accord.
 
 
 ## The Everyday Robots
