@@ -5,7 +5,7 @@
 
 > ### For suppose that every tool we had could perform its task, either at our bidding or itself perceiving the need, of their own accord.
 
-## The Everyday Robots
+## Milestone #1: The Everyday Robots
 
 Creating robots that can be taught by anyone requires tackling some of the hardest challenges in the field of robotics. The Everyday Robot Project is developing a general-purpose learning robot that can operate autonomously in unstructured environments
 
