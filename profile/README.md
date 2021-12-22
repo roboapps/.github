@@ -1,11 +1,9 @@
 # Welcome to Robotory 👋
 ![intro](/profile/robotory.gif)
 
-### A rapidly deployable, remotely managed, modular manufacturing supply chain network enabled by industrial digital technologies. Using recent advances in 2D Materials, 3D Printing, Manufacturing Technologies and Robotics.
-
 > ### For suppose that every tool we had could perform its task, either at our bidding or itself perceiving the need, of their own accord.
 
-## Milestone #1: The Everyday Robots
+## Challenge: The Everyday Robots
 
 Creating robots that can be taught by anyone requires tackling some of the hardest challenges in the field of robotics. The Everyday Robot Project is developing a general-purpose learning robot that can operate autonomously in unstructured environments
 
