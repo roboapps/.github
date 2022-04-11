@@ -1,2 +1,2 @@
 # Welcome to Robotory 👋
-![intro](/profile/robotory.gif)
+![intro](/profile/landing.png)
